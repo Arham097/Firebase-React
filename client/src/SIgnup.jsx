@@ -1,7 +1,7 @@
 import React from "react";
 
 const SIgnup = () => {
-  console.log("Signup");
+  console.log("jhdgjdgsj");
   return <div></div>;
 };
 
